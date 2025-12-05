@@ -90,7 +90,7 @@ Built microcontroller-based display for public transport updates
 📧 Email: kavipriya.p004@gmail.com
 
 📱 Phone: 8838962690
-💼 LinkedIn: https://www.linkedin.com/in/kavipriya
+💼 LinkedIn: https://www.linkedin.com/in/kavipriya-p-a55752299/
 
 🐙 GitHub: https://github.com/kavipriyapanneerselvam
 
