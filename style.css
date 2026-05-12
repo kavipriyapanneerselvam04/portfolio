@@ -364,10 +364,12 @@ footer {
   color: var(--muted);
   margin-top: 40px;
 }
+/* Replace this section in your style.css */
 
 [data-animate] {
-  opacity: 0;
-  transform: translateY(18px);
+  /* Make elements visible by default */
+  opacity: 1;
+  transform: none;
   transition: opacity 0.7s ease, transform 0.7s ease;
 }
 
